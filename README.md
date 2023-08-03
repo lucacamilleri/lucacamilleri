@@ -8,12 +8,12 @@ I'm 18 years old and live in ![alt text](https://raw.githubusercontent.com/steve
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 
 #### 🤔 Languages I'm still learning
 
 ![LUA](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&labelColor=black&logo=lua&logoColor=2C2D72)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 
 #### Frameworks I'm familiar with
