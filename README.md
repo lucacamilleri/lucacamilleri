@@ -4,7 +4,7 @@
 I'm 18 years old and live in‎ ‎‎ ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mt.png) (Malta).
 <br> In my free time I exercise, play games and play with code whenever I feel like it.
 
-#### ✔️ Languages I'm good in
+#### 🌐 Languages I'm good in
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)
