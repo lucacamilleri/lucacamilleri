@@ -11,11 +11,11 @@ I'm 18 years old and live in‎ ‎‎ ![alt text](https://raw.githubusercontent
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 
-#### 🤔 Languages/Frameworks I'm still learning
+#### 🤔 Languages/Frameworks/Libraries I'm still learning
 
 ![LUA](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&labelColor=black&logo=lua&logoColor=2C2D72)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DAFB)
 
 #### 💻 Frameworks I'm familiar with
 ![IONIC](https://img.shields.io/badge/IONIC-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=3880FF)
