@@ -1,7 +1,7 @@
-# Hi 👋, I'm Luca
+# Hi 👋, I'm Luca‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎![](https://komarev.com/ghpvc/?username=lucacamilleri&style=for-the-badge&color=981E32)
 
 ### A little about me...
-I'm 18 years old and live in ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mt.png) (Malta).
+I'm 18 years old and live in‎ ‎‎ ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mt.png) (Malta).
 <br> In my free time I exercise, play games and play with code whenever I feel like it.
 
 #### 💻 Languages I'm good in
@@ -22,5 +22,3 @@ I'm 18 years old and live in ![alt text](https://raw.githubusercontent.com/steve
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&labelColor=black&logo=bulma&logoColor=00D1B2)
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacamilleri&theme=dark&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucacamilleri&layout=compact)
