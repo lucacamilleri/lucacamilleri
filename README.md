@@ -1,7 +1,7 @@
 # Hi 👋, I'm Luca‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ![](https://komarev.com/ghpvc/?username=lucacamilleri&style=for-the-badge&color=FECC00)
 
 ### A little about me...
-I'm 19 years old and live in‎ ‎‎ ![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mt.png) (Malta).
+I'm 19 years old and live in‎ ‎‎**Malta**.
 <br> In my free time I exercise, play games and play with code whenever I feel like it.
 
 #### 🌐 Languages I'm good in
