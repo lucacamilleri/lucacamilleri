@@ -20,10 +20,10 @@
 ![IONIC](https://img.shields.io/badge/IONIC-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=3880FF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
 
-#### 🤔 I'm currently learning
+#### 📖 I'm currently learning
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DAFB)
 
-### I plan on learning
+### 🤔 I plan on learning
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacamilleri&theme=dark&show_icons=true)
