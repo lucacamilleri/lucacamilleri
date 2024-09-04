@@ -25,5 +25,6 @@
 
 ### 🤔 I plan on learning
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacamilleri&theme=dark&show_icons=true)
