@@ -1,30 +1,53 @@
-# Hi 👋, I'm Luca																														
-‎![](https://komarev.com/ghpvc/?username=lucacamilleri&style=for-the-badge&color=FECC00)
+<h1 align="center">hey there 👋</h1>
 
-### A little about me...
-- I'm 19 years old and live in‎ ‎‎**Malta**.
-- Hobbies:
-  - Working on personal projects
-  - Gym/Exercise
-  - Gaming
+###
 
-#### 💻 I'm confident in
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucacamilleri.lucacamilleri&"  />
+</div>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&labelColor=black&logo=php&logoColor=3776AB)
-<br>
-![PYTHON](https://img.shields.io/badge/Python-777BB4?style=for-the-badge&labelColor=black&logo=python&logoColor=777BB4)
-![LUA](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&labelColor=black&logo=lua&logoColor=2C2D72)
-![IONIC](https://img.shields.io/badge/IONIC-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=3880FF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
+###
 
-#### 📖 I'm currently learning
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DAFB)
+<h3 align="left">👩‍💻  About Me</h3>
 
-### 🤔 I plan on learning
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)
+###
 
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucacamilleri&theme=dark&show_icons=true)
+<p align="left">I'm Luca from Malta<br><br>- 🔭 I’m working as a UX/UI Apprentice<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I go to the gym, swim or play video games</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/lucacamilleri/lucacamilleri/output/snake.svg" alt="Snake animation" />
+
+###
