@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Luca from Malta<br><br>- 🔭 I’m working as a UX/UI Apprentice<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I go to the gym, swim or play video games</p>
+<p align="left">I'm Luca from Malta<br><br>- 🔭 I’m working as a UX/UI Apprentice<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I go to the gym, swim or game like a nerd</p>
 
 ###
 
