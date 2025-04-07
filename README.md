@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Luca from Malta<br><br>- 🔭 I’m working as a Junior Software Engineer<br>- 📚 I'm currently getting familiar with ReactJS, VueJS and Lua<br>- ⚡ In my free time I go to the gym, swim or game like a nerd</p>
+<p align="left">I'm Luca from Malta<br><br>- 🔭 I’m working as a Junior Software Engineer<br>- 📚 I'm currently getting familiar with ReactJS, VueJS and Lua
 
 ###
 
